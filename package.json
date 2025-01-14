@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@angular/animations": "^17.3.12",
-    "@angular/cdk": "^17.3.12",
+    "@angular/cdk": "^17.3.10",
     "@angular/common": "^17.3.12",
     "@angular/compiler": "^17.3.12",
     "@angular/core": "^17.3.12",
@@ -42,7 +42,7 @@
     "imask": "^7.3.0",
     "lodash": "^4.17.21",
     "novo-design-tokens": "^0.0.9",
-    "novo-elements": "7.0.0",
+    "novo-elements": "10.7.0",
     "post-robot": "^8.0.0",
     "resize-observer-polyfill": "^1.5.1",
     "rxjs": "~7.8.1",
